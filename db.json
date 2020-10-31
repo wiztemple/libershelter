@@ -1,0 +1,93 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The last fantasy",
+      "authorId": 1,
+      "genre": "fantasy",
+      "author": "Samuel Duffler",
+      "description": "Culpa nulla pariatur cupidatat nisi incididunt ea do ipsum. Incididunt quis mollit elit commodo cillum eiusmod reprehenderit labore irure. Cillum et incididunt et nostrud exercitation quis aute laboris non ut adipisicing. Laboris ad minim aute nulla proident deserunt velit anim sunt aliquip ut sit. Exercitation aliquip ullamco officia non aliqua. Sint deserunt aliquip veniam id eiusmod sit consectetur mollit ea aliqua officia consequat. Magna non mollit nisi est commodo voluptate aute id. Deserunt nostrud id do in nisi mollit deserunt non. Pariatur fugiat cillum irure elit sint nisi ad ipsum culpa deserunt cupidatat esse consequat laboris. Id aliquip non consectetur esse proident duis Lorem.",
+      "published": "1976",
+      "publisher": "Hollman",
+      "isbn": "2662882-2228289",
+      "bookImage": "https://books.books.ng/22/hh/q"
+    },
+    {
+      "id": 2,
+      "title": "The days of our fathers",
+      "authorId": 1,
+      "genre": "poetry",
+      "author": "Samuel Duffler",
+      "description": "Culpa nulla pariatur cupidatat nisi incididunt ea do ipsum. Incididunt quis mollit elit commodo cillum eiusmod reprehenderit labore irure. Cillum et incididunt et nostrud exercitation quis aute laboris non ut adipisicing. Laboris ad minim aute nulla proident deserunt velit anim sunt aliquip ut sit. Exercitation aliquip ullamco officia non aliqua. Sint deserunt aliquip veniam id eiusmod sit consectetur mollit ea aliqua officia consequat. Magna non mollit nisi est commodo voluptate aute id. Deserunt nostrud id do in nisi mollit deserunt non. Pariatur fugiat cillum irure elit sint nisi ad ipsum culpa deserunt cupidatat esse consequat laboris. Id aliquip non consectetur esse proident duis Lorem.",
+      "published": "1996",
+      "publisher": "Hollman",
+      "isbn": "2662882-2228289",
+      "bookImage": "https://books.books.ng/22/hh/q"
+    }
+  ],
+  "library": {
+    "name": "City library"
+  },
+  "genre": [
+    {
+      "id": 1,
+      "genre_name": "Fantasy",
+      "genre_initials": "Fa"
+    },
+    {
+      "id": 2,
+      "genre_name": "Adventure",
+      "genre_initials": "Ad"
+    },
+    {
+      "id": 3,
+      "genre_name": "Romance",
+      "genre_initials": "Ro"
+    },
+    {
+      "id": 4,
+      "genre_name": "Contemporary",
+      "genre_initials": "Co"
+    },
+    {
+      "id": 5,
+      "genre_name": "Dystopian",
+      "genre_initials": "Dy"
+    },
+    {
+      "id": 6,
+      "genre_name": "Mystery",
+      "genre_initials": "My"
+    },
+    {
+      "id": 7,
+      "genre_name": "Horror",
+      "genre_initials": "Ho"
+    },
+    {
+      "id": 8,
+      "genre_name": "Thriller",
+      "genre_initials": "Th"
+    },
+    {
+      "id": 9,
+      "genre_name": "Paranormal",
+      "genre_initials": "Pa"
+    },
+    {
+      "id": 10,
+      "genre_name": "History Fiction",
+      "genre_initials": "Hf"
+    },
+    {
+      "id": 11,
+      "genre_name": "Science Fiction",
+      "genre_initials": "Sf"
+    },
+    {
+      "id": 12,
+      "genre_name": "Memoir",
+      "genre_initials": "Me"
+    }
+  ]
+}
