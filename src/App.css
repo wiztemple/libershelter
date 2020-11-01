@@ -1,3 +1,15 @@
+.App {
+  height: 100vh;
+  overflow-y: hidden;
+}
+.all-books {
+  height: 100vh;
+  overflow-y: scroll;
+}
+.sidebar-scroll {
+  height: 100%;
+  overflow-y: hidden;
+}
 .columns {
   display: flex;
   flex-wrap: wrap;
@@ -29,6 +41,28 @@
 }
 .hidden {
   display: none;
+}
+
+/*button*/
+.button {
+  display: inline-block;
+  font: inherit;
+  position: relative;
+  color: #222;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0.625rem 1.25rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+.button:focus {
+  outline: none;
 }
 
 /* utilities */
@@ -232,6 +266,18 @@
   /*utilities*/
   .md-mt-20 {
     margin-top: 20px;
+  }
+  .md-pl-0 {
+    padding-left: 0;
+  }
+  .md-pr-0 {
+    padding-right: 0;
+  }
+  .md-mr-o {
+    margin-right: 0;
+  }
+  .md-ml-0 {
+    margin-left: 0;
   }
 }
 @media (min-width: 1024px) {

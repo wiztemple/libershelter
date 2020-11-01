@@ -3,8 +3,9 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 body {
+  font-family: 'Rubik', sans-serif;
   margin: 0;
-  background-color: #f7f7f7;
+  background-color: #F0F3F9;
 }
 main {
   display: block;
@@ -46,22 +47,6 @@ samp {
 }
 small {
   font-size: 80%;
-}
-
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-}
-
-sub {
-  bottom: -0.25em;
-}
-
-sup {
-  top: -0.5em;
 }
 
 img {
